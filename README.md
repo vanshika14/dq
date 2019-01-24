@@ -1,2 +1,5 @@
 # dq
-first data quality repo
+
+## Section 1: First data quality repo
+- python
+- R
