@@ -6,3 +6,6 @@
 ## Section 2: Some tools
 - weka
 - rapidminder
+## Section 3: Use cases
+- customer segmentation
+- customer churn
