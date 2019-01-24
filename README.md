@@ -8,4 +8,4 @@
 - rapidminder
 ## Section 3: Use cases
 - customer segmentation
-- customer churn
+
